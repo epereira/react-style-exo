@@ -1,5 +1,13 @@
+
+
+/* Add some padding inside the card container */
+.container {
+  padding: 6px 16px;
+}
+
 .App {
   text-align: center;
+  color:black;
 }
 
 .App-logo {
